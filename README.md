@@ -28,9 +28,11 @@ Designed as a heartfelt surprise for my sister on her birthday 🎂🎈 — this
 📁 [Download the Project or Clone]
 
 ```bash
-git clone https://github.com/your-username/birthday-gift-card-2025.git
+git clone https://github.com/rasulkhan-RK/birthday_spl
 cd birthday-gift-card-2025
 npm install
 npm run dev
 
+
+![Screenshot 2025-04-07 121227](https://github.com/user-attachments/assets/f6315b24-38c7-44be-960c-02abf4d7198a)
 
