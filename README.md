@@ -24,7 +24,7 @@ Designed as a heartfelt surprise for my sister on her birthday 🎂🎈 — this
 
 ## 🚀 Try it Out
 
-🔗 [Live Demo Coming Soon]  
+🔗 Live Demo: https://birthday-spl.vercel.app/  
 📁 [Download the Project or Clone]
 
 
